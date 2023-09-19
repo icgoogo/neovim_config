@@ -1,0 +1,15 @@
+{
+  "languageserver": {
+    "go": {
+      "command": "gopls",
+      "rootPatterns": ["go.mod"],
+      "trace.server": "verbose",
+      "filetypes": ["go"]
+    }
+  },
+  "colors.enable": true,
+  "coc-flutter": {
+    "enable": true,
+    "packagePath": "~/Hammad/JadiAnakIT/coc-flutter"
+  }
+}
